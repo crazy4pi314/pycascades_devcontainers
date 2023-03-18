@@ -30,5 +30,5 @@ Sarah has spent most of her career developing technology in the lab, from virtua
 
 ### Bonus
 
-This talk repo is based on a [template reposotory](https://github.com/crazy4pi314/conda-devcontainer-demo?WT.mc_id=python-91783-sarahakaiser) that can be used to start with a minimal [Dev Container](https://containers.dev/) setup that provides [conda](https://github.com/conda/conda) and [mamba](https://github.com/mamba-org/mamba) for setting up Python environments.
+This talk repo is based on a [template repository](https://github.com/crazy4pi314/conda-devcontainer-demo?WT.mc_id=python-91783-sarahakaiser) that can be used to start with a minimal [Dev Container](https://containers.dev/) setup that provides [conda](https://github.com/conda/conda) and [mamba](https://github.com/mamba-org/mamba) for setting up Python environments.
 You can find a blog post on how to use it on [Dev.to](https://dev.to/crazy4pi314/how-to-get-the-best-conda-environment-experience-in-codespaces-4na9?WT.mc_id=python-91783-sarahakaiser).
