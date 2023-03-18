@@ -1,4 +1,5 @@
-FROM mcr.microsoft.com/devcontainers/miniconda:0-3
+FROM mcr.microsoft.com/devcontainers/miniconda:0.202.19-3
+ENV foo=bar
 
 # Copy environment.yml (if found) to a temp location so we update the environment. Also
 # copy "noop.txt" so the COPY instruction does not fail if no environment.yml exists.
